@@ -1,6 +1,9 @@
-numpy
-pandas
 matplotlib
+numpy
+opencv-python
+pandas
+PIL
 scikit-learn
 seaborn
+tensorflow
 xgboost
